@@ -3,8 +3,9 @@ This is a simple post-it note built using [React!](https://reactjs.org/docs/crea
 
 I have integrated *localstorage* for storing notes in your browser.
 
-# Hosted
-Github
+## Run the code
+yarn add
+yarn start 
 
 ## Enjoy Web app
 
